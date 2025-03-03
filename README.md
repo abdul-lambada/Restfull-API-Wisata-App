@@ -1,39 +1,33 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Status Build"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Unduhan"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Versi Stabil Terbaru"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="Lisensi"></a>
 </p>
 
-## About Laravel
+# RESTful API Wisata App
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Proyek ini adalah sebuah API RESTful yang dibuat untuk mengelola data destinasi wisata. Dibangun dengan Laravel, API ini menyediakan endpoint untuk membuat, membaca, memperbarui, dan menghapus data wisata.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Tentang Proyek
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+RESTful API Wisata App menawarkan API yang fleksibel dan skalabel untuk menangani informasi pariwisata. Aplikasi ini menyediakan endpoint-epoint yang aman dengan autentikasi dan validasi yang tepat, sehingga mudah untuk diintegrasikan dengan aplikasi front-end yang beragam atau layanan pihak ketiga.
 
-## Learning Laravel
+## Belajar Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Laravel memiliki dokumentasi [resmi](https://laravel.com/docs) dan repositori video tutorial yang sangat lengkap, sehingga memudahkan pemula untuk memulai dengan framework ini.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Anda juga dapat mencoba [Laravel Bootcamp](https://bootcamp.laravel.com), yang akan memandu Anda dalam membangun aplikasi Laravel modern dari awal.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Jika Anda tidak berminat membaca, [Laracasts](https://laracasts.com) menyediakan lebih dari 2000 video tutorial mengenai topik-topik seperti Laravel, PHP modern, pengujian unit, dan JavaScript. Tingkatkan keahlian Anda dengan mendalami perpustakaan video komprehensif kami.
 
-## Laravel Sponsors
+## Sponsor Laravel
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+Kami mengucapkan terima kasih kepada sponsor-sponsor berikut yang telah mendanai pengembangan Laravel. Jika Anda tertarik untuk menjadi sponsor, silakan kunjungi halaman [Patreon Laravel](https://patreon.com/taylorotwell).
 
-### Premium Partners
+### Mitra Premium
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
@@ -49,18 +43,18 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
 
-## Contributing
+## Kontribusi
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Terima kasih atas minat Anda untuk berkontribusi pada framework Laravel! Panduan kontribusi dapat ditemukan pada [dokumentasi Laravel](https://laravel.com/docs/contributions).
 
-## Code of Conduct
+## Kode Etik
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Untuk memastikan bahwa komunitas Laravel menyambut semua pihak, harap baca dan patuhi [Kode Etik](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+## Kerentanan Keamanan
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Jika Anda menemukan kerentanan keamanan di dalam Laravel, silakan kirim email kepada Taylor Otwell melalui [taylor@laravel.com](mailto:taylor@laravel.com). Semua kerentanan keamanan akan segera ditindaklanjuti.
 
-## License
+## Lisensi
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Framework Laravel adalah perangkat lunak sumber terbuka yang dilisensikan di bawah lisensi [MIT](https://opensource.org/licenses/MIT).
