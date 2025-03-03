@@ -53,7 +53,7 @@ Untuk memastikan bahwa komunitas Laravel menyambut semua pihak, harap baca dan p
 
 ## Kerentanan Keamanan
 
-Jika Anda menemukan kerentanan keamanan di dalam Laravel, silakan kirim email kepada Taylor Otwell melalui [taylor@laravel.com](mailto:taylor@laravel.com). Semua kerentanan keamanan akan segera ditindaklanjuti.
+Jika Anda menemukan kerentanan keamanan di dalam Laravel, silakan kirim email kepada Abdul Lambada melalui [engineertekno@gmail.com.com](mailto:engineertekno@gmail.com). Semua kerentanan keamanan akan segera ditindaklanjuti.
 
 ## Lisensi
 
